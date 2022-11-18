@@ -1,5 +1,4 @@
 # DrivingDirection-4
-
 70/70 [==============================] - 0s 4ms/step - loss: 0.0531 - accuracy: 1.0000 - val_loss: 1.2888 - val_accuracy: 0.5405 <br/>
 [[124  10  10]   <br/>
  [ 43  20  14]   <br/>
